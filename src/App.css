@@ -1,0 +1,35 @@
+.victory {
+  font-size: 6em
+}
+
+.picture {
+  border-radius: 20px;
+  margin: 0 auto;
+  /* max-width: 500px;
+  max-height: 450px;  */
+}
+
+.btn-danger {
+  margin-left: 20px;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 5em;
+  color: #60d163;
+}
+
+h3 {
+  font-family: 'Lobster', cursive;
+  font-size: 2.5em;
+  color: #60d163;
+}
+
+body {
+  height: 100%;
+  background: linear-gradient(to top, #d6fce5, #fff);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #1f7021
+}
